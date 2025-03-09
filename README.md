@@ -19,23 +19,33 @@ pyrcc5 -o libs/resources.py resources.qrc
 ## 4.使用labelImg標註圖片
 
 w，是標註快捷鍵  
->![](https://github.com/sujamie/yolov8-fire.and.smoke/blob/main/%E4%BD%BF%E7%94%A8labelImg%E6%A8%99%E8%A8%BB%E5%9C%96%E7%89%87%E7%95%AB%E9%9D%A2.png?raw=true)
+>![](https://github.com/sujamie/yolov8-fire.and.smoke/blob/main/%E4%BD%BF%E7%94%A8labelImg%E6%A8%99%E8%A8%BB%E5%9C%96%E7%89%87%E7%95%AB%E9%9D%A2.png?raw=true)  
 
 ## 5.!! 因為資安問題，ultralytics有部分版本被植入惡意挖礦程式，所以需從github下載 ultralytics，不要使用pip install
-[ultralytics_github](https://github.com/ultralytics/ultralytics)
+[ultralytics_github](https://github.com/ultralytics/ultralytics)  
 
 ## 6.使用者介面
->![](https://github.com/sujamie/yolov8-fire.and.smoke/blob/main/%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2.png?raw=true)
+>![](https://github.com/sujamie/yolov8-fire.and.smoke/blob/main/%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2.png?raw=true)  
 
 ## 7.圖片預測
 圖片預測Yolov8s,訓練10次
->![](https://github.com/sujamie/yolov8-fire.and.smoke/blob/main/%E5%9C%96%E7%89%87%E9%A0%90%E6%B8%ACYolov8s,%E8%A8%93%E7%B7%B410%E6%AC%A1.png?raw=true)
+>![](https://github.com/sujamie/yolov8-fire.and.smoke/blob/main/%E5%9C%96%E7%89%87%E9%A0%90%E6%B8%ACYolov8s,%E8%A8%93%E7%B7%B410%E6%AC%A1.png?raw=true)  
+
 圖片預測Yolov8s,訓練100次
->![](https://github.com/sujamie/yolov8-fire.and.smoke/blob/main/%E5%9C%96%E7%89%87%E9%A0%90%E6%B8%ACYolov8s,%E8%A8%93%E7%B7%B4100%E6%AC%A1.png?raw=true)
+
+>![](https://github.com/sujamie/yolov8-fire.and.smoke/blob/main/%E5%9C%96%E7%89%87%E9%A0%90%E6%B8%ACYolov8s,%E8%A8%93%E7%B7%B4100%E6%AC%A1.png?raw=true)  
+
 圖片預測Yolov8s,超參數增強後
->![](https://github.com/sujamie/yolov8-fire.and.smoke/blob/main/%E5%9C%96%E7%89%87%E9%A0%90%E6%B8%ACYolov8s,%E8%B6%85%E5%8F%83%E6%95%B8%E5%A2%9E%E5%BC%B7%E5%BE%8C.png?raw=true)
+
+>![](https://github.com/sujamie/yolov8-fire.and.smoke/blob/main/%E5%9C%96%E7%89%87%E9%A0%90%E6%B8%ACYolov8s,%E8%B6%85%E5%8F%83%E6%95%B8%E5%A2%9E%E5%BC%B7%E5%BE%8C.png?raw=true)  
+
 100次及超參數增強後影片偵測次數對比
->![](https://github.com/sujamie/yolov8-fire.and.smoke/blob/main/100%E6%AC%A1%E5%8F%8A%E8%B6%85%E5%8F%83%E6%95%B8%E5%A2%9E%E5%BC%B7%E5%BE%8C%E5%BD%B1%E7%89%87%E5%81%B5%E6%B8%AC%E6%AC%A1%E6%95%B8%E5%B0%8D%E6%AF%94.png?raw=true)
+
+>![](https://github.com/sujamie/yolov8-fire.and.smoke/blob/main/100%E6%AC%A1%E5%8F%8A%E8%B6%85%E5%8F%83%E6%95%B8%E5%A2%9E%E5%BC%B7%E5%BE%8C%E5%BD%B1%E7%89%87%E5%81%B5%E6%B8%AC%E6%AC%A1%E6%95%B8%E5%B0%8D%E6%AF%94.png?raw=true)  
+
+## 影片對比
+<a href= "https://www.youtube.com/watch?v=F5xGr3WEeBI">
+<img src= "https://i9.ytimg.com/vi/F5xGr3WEeBI/sddefault.jpg?sqp=CMSMtr4G-oaymwEmCIAFEOAD8quKqQMa8AEB-AG-CYAC0AWKAgwIABABGGUgWShMMA8=&rs=AOn4CLDGvgzwHkLDXb59jS5zFgr582N5Ag"></a>
 
 ## 8.Yaml檔案程式碼
 ``` python
