@@ -8,5 +8,8 @@
 conda install pyqt=5  
 conda install -c anaconda lxml  
 pyrcc5 -o libs/resources.py resources.qrc  
-## 輸入 : python labelImg.py 開啟lambelImg
+## 3.輸入 : python labelImg.py 開啟lambelImg(需在下載lambelImg的資料夾輸入)
 >![](https://github.com/sujamie/yolov8-fire.and.smoke/blob/main/lambelImg%E7%95%AB%E9%9D%A2.png?raw=true)
+## 4.使用lambelImg標註圖片
+w，是標註快捷鍵  
+
