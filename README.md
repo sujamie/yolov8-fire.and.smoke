@@ -9,4 +9,4 @@ conda install pyqt=5
 conda install -c anaconda lxml  
 pyrcc5 -o libs/resources.py resources.qrc  
 ## 輸入 : python labelImg.py 開啟lambelImg
-
+>![](https://github.com/sujamie/yolov8-fire.and.smoke/blob/main/lambelImg%E7%95%AB%E9%9D%A2.png?raw=true)
