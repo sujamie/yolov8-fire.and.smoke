@@ -44,6 +44,7 @@ w，是標註快捷鍵
 >![](https://github.com/sujamie/yolov8-fire.and.smoke/blob/main/100%E6%AC%A1%E5%8F%8A%E8%B6%85%E5%8F%83%E6%95%B8%E5%A2%9E%E5%BC%B7%E5%BE%8C%E5%BD%B1%E7%89%87%E5%81%B5%E6%B8%AC%E6%AC%A1%E6%95%B8%E5%B0%8D%E6%AF%94.png?raw=true)  
 
 ## 影片對比
+> 紅色框為fire，綠色框為smoke，請點進影片觀看
 <a href= "https://www.youtube.com/watch?v=F5xGr3WEeBI">
 <img src= "https://i9.ytimg.com/vi/F5xGr3WEeBI/sddefault.jpg?sqp=CMSMtr4G-oaymwEmCIAFEOAD8quKqQMa8AEB-AG-CYAC0AWKAgwIABABGGUgWShMMA8=&rs=AOn4CLDGvgzwHkLDXb59jS5zFgr582N5Ag"></a>
 
