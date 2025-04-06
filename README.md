@@ -46,7 +46,7 @@ w，是標註快捷鍵
 ## 影片對比
 > 紅色框為fire，綠色框為smoke，請點進影片觀看
 <a href= "https://www.youtube.com/watch?v=F5xGr3WEeBI">
-<img src= "https://i9.ytimg.com/vi_webp/F5xGr3WEeBI/mq2.webp?sqp=CKzVx78G-oaymwEmCMACELQB8quKqQMa8AEB-AG-CYAC0AWKAgwIABABGGUgWShMMA8=&rs=AOn4CLAsGsNIBq4DighqlUdNqJncuBPm1g"></a>
+<img src= "https://raw.githubusercontent.com/sujamie/yolov8-fire.and.smoke/refs/heads/main/mq2.jpg"></a>
 
 ## 8.Yaml檔案程式碼
 ``` python
